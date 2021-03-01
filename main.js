@@ -1,9 +1,7 @@
 function addNewList() {
-    alert('hello world!');
+  alert("hello world!");
 }
 
 function addListItem() {
-    console.log("hello world!")
+  console.log("hello world!");
 }
-
-
